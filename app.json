@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Proshika RN",
+    "slug": "proshika-rn",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "platforms": ["ios", "android", "web"],
+    "assetBundlePatterns": ["**/*"]
+  }
+}
